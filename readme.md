@@ -58,5 +58,5 @@ corresponding result defines the next view.
 
 For more information look at the (slightly outdated!) presentation (PDF or ODP)
 in the *Documentation* folder, but be aware that some of the class names have 
-changed in to implementation but were not updated in the documentation.
+changed in the implementation but were not updated in the documentation.
 
